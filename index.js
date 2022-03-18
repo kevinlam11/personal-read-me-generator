@@ -30,6 +30,32 @@ function init() {
         message: "What is the description of your project?",
         name: "description",
       },
+      {
+        type: "input",
+        message: "What is the installation process?",
+        name: "installation",
+      },
+      {
+        type: "input",
+        message: "What is the contribution guidelines?",
+        name: "contribution",
+      },
+      {
+        type: "input",
+        message: "What is the test instructions?",
+        name: "instructions",
+      },
+      {
+        type: "input",
+        message: "What is the use of this app?",
+        name: "usage",
+      },
+
+      {
+        type: "input",
+        message: "Do you have any questions?",
+        name: "questions",
+      },
     ])
     .then((answers) => {
       console.log(generateMarkdown(answers));
