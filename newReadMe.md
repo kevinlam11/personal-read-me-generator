@@ -1,33 +1,33 @@
-# sdfsdf
+# Read Me Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description
-  sdf
+  a read me generator
 
   ## Table Of Contents
 
-1. [Installation](##installation)
-2. [Contribution](##contribution)
-3. [Usage](##usage)
-4. [Instructions](##instructions)
-5. [Questions](##questions)
+1. [Installation](##Installation)
+2. [Contribution](##Contribution)
+3. [Usage](##Usage)
+4. [Instructions](##Instructions)
+5. [Questions](##Questions)
 
 
 
   ## Installation 
-  sdf
+  git clone the github 
 
   ## Contribution
-  sdf
+  contact me 
 
   ## Usage
-  sdf
+  to generate a read me 
 
   ## Instructions
-  sdf
+  contact me 
 
   ## Questions 
-  sdf
+  no
 
 

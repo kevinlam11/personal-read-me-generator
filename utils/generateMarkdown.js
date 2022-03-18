@@ -39,11 +39,11 @@ function generateMarkdown(data) {
 
   ## Table Of Contents
 
-1. [Installation](##installation)
-2. [Contribution](##contribution)
-3. [Usage](##usage)
-4. [Instructions](##instructions)
-5. [Questions](##questions)
+1. [Installation](##Installation)
+2. [Contribution](##Contribution)
+3. [Usage](##Usage)
+4. [Instructions](##Instructions)
+5. [Questions](##Questions)
 
 
 
